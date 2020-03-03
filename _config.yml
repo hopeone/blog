@@ -4,7 +4,7 @@ name: hopeone
 description: hopeone blog demo
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://hopeone.github.io
+url: https://hopeone.github.io/blog
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
