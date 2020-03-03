@@ -21,5 +21,3 @@ interface gi2
 !
 
 ```
-
- 
