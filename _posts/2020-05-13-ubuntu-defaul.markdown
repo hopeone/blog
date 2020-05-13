@@ -14,20 +14,32 @@ passwd: password updated successfully
 sudo vi /etc/apt/sources.list
 확인해보면 기본적으로
 
-http://kr.archive.ubuntu.com/ubuntu/
+http://kr.archive.ubuntu.com/
+
+
+ubuntu/
 
 위 주소로 되어있다
 
 vi 에서 치환으로 
 
+```
 %s/kr.archive.ubuntu.com/ftp.daumkakao.com
+```
 
 변경
  
 
 ## 3. Apache 설치
 
-sudo apt install -y apache2 apache2-utils
+```sudo apt install -y apache2 apache2-utils```
+
+```systemctl status apache2$$$```
+
+
+[TOC]
+
+
 
 
 
