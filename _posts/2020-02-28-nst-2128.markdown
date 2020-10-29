@@ -5,6 +5,7 @@ categories: net
 tags: nst,2182
 author: hopeone
 description: 기본설정
+comments: true
 ---
 
 

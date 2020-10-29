@@ -5,6 +5,7 @@ categories: web,dev
 tags: git,command,
 author: hopeone
 description: Git 기본 명령어 
+comments: true
 ---
 
 

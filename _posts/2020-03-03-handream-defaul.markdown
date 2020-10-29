@@ -5,6 +5,7 @@ categories: net
 tags: 한드림,l2,net
 author: hopeone
 description: 기본설정
+comments: true
 ---
 
 

@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "우분투 설치후"
+categories: net
+tags: 우분투,
+author: hopeone
+description: 기본설정
+comments: true
+---
 # 우분투(20.) 설치후 세팅순서
 
 
