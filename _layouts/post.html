@@ -70,6 +70,12 @@ layout: default
     </ul>
     {% endunless %}  
 
+
+{% if page.comments %}
+...
+{% endif %}
+
+
     </div>
     {% if page.comments %}
         {% if site.disqus != '' %}
