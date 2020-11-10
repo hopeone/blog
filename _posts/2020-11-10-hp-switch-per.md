@@ -10,10 +10,25 @@ comments: true
 
 ###### . 로컬 사용자 계정 생성 및 서비스 타입 및 레벨 설정 (telnet)
 
-Web 접속 활성화
+#### ==1 .Web 접속 활성화==
 ```
 [hp]ip http enable 
 
+
 ```
 
- df
+```
+[HP]local-user webuser  
+
+New local user added.
+
+[HP-user-webuser]password simple password 
+
+[HP-user-webuser]authorization-attribute level 3    .
+
+[HP-user-webuser] telnet은 보안상 제한한다.
+
+[HP-user-webuser]service-type web
+```
+
+
