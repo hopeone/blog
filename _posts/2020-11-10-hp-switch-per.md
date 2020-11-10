@@ -26,8 +26,6 @@ New local user added.
 
 [HP-user-webuser]authorization-attribute level 3    .
 
-[HP-user-webuser] telnet은 보안상 제한한다.
-
 [HP-user-webuser]service-type web
 ```
 
