@@ -24,7 +24,7 @@ JAJANGMYEON ----  8,000
   Jjajangmyeon is stir-fried without adding
   water and has a sweet and salty taste that
   brings out the taste of spring bean paste
-  and vegetables.
+  and vegetables.1
 ```
 
 
