@@ -7,7 +7,7 @@ author: hopeone
 description: 영어메뉴판
 comments: true
 ---
-![이미지 설명](/_posts/images/chani_eng_menu1.jpg)
+![이미지 설명](/[_posts/images/chani_eng_menu1.jpg](https://github.com/hopeone/blog/blob/master/_posts/images/chani_eng_menu1.jpg))
 
 
 ###### 
